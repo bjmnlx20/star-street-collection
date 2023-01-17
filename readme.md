@@ -1,4 +1,4 @@
-# Star Street Collection :dog::city_sunset:
+# :star: Star Street Collection :star:
 
 Star Wars & Sesame Street NFTs. Supported by ERC2771 for gasless transactions. No ETH needed!
 
@@ -28,11 +28,11 @@ Check it out here: https://starstreetcollection.netlify.app
 
 ## List NFTs
 
-<br><b> 1. Add your NFT to the collection.</b> <br><br>
+<br><b> 1. Add your NFT to the collection by going to the "List My NFT" page</b> <br><br>
 
 <img src="https://github.com/bjmnlx20/star-street-collection/blob/master/readmeImages/list.png" width="800"> <br>
 
-<br> <b> 2. You will be prompted to mint the NFT (not gasless!) </b><br>
+<br> <b> 2. Enter the details and add the image file. You will be prompted to mint the NFT (not gasless!) </b><br>
 
 <img src="https://github.com/bjmnlx20/star-street-collection/blob/master/readmeImages/mint.png" width="800"> <br>
 
